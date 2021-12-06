@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[66],{660:function(e,t,n){"use strict";n.r(t),n.d(t,"SafeAreaWeb",(function(){return o}));var r=n(70);class o extends r.a{async getSafeAreaInsets(){return{insets:{top:0,left:0,right:0,bottom:0}}}}}}]);

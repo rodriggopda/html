@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[65],{661:function(n,e,c){"use strict";c.r(e),c.d(e,"SplashScreenWeb",(function(){return w}));var o=c(70);class w extends o.a{async show(n){}async hide(n){}}}}]);
